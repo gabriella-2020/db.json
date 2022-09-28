@@ -1,4 +1,5 @@
 {
+  
 "Filmes":[
 {"id":1, "nome":"Extraordinário",
 "duração": "1h53m",
@@ -52,7 +53,7 @@
 "autora": "Thalita Rebouças",
 "lançamento": "16 de maio de 2016"},
 
-{"id":9, ]
+{"id":9, 
 "nome":"Fazendo Meu Filme 1",
 "número de páginas": "309",
 "autora": "Paula Pimenta",
